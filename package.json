@@ -1,7 +1,7 @@
 {
   "name": "inventario-extintores",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000E\u0000x\u0000t\u0000i\u0000n\u0000t\u0000o\u0000r\u0000e\u0000s\u0000G\u0000e\u0000s\u0000t\u0000o\u0000r\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,13 @@
   "dependencies": {
     "express": "^5.2.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuciaOrtizPaz/ExtintoresGestor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuciaOrtizPaz/ExtintoresGestor/issues"
+  },
+  "homepage": "https://github.com/LuciaOrtizPaz/ExtintoresGestor#readme"
 }
